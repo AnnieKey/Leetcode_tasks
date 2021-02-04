@@ -1,2 +1,3 @@
 # Leetcode tasks solution
-Will update with links and tasks soon.
+### Two-sum
+Link: https://leetcode.com/problems/two-sum/
